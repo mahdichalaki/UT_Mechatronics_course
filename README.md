@@ -4,7 +4,9 @@
 
 This project was completed as part of the **Mechatronics course final project** at the **University of Tehran**. The objective was to **design, build, and program** a four-legged walking robot. Each project group consisted of three students, with specific responsibilities assigned to each member.
 
-![Four-Legged Robot](bot_sim.jpg)
+<p align="center">
+  <img src="bot_sim.jpg" alt="Four-Legged Robot" width="500">
+</p>
 
 Our robot utilizes **Chebyshev’s Lambda mechanism**, with the goal of achieving stable walking motion. The mechanical design was created using **SolidWorks**, and the mechanism's motion was analyzed with **SAM software** before the final assembly using wood and plexiglass. 
 
@@ -82,7 +84,9 @@ The following hardware components were used:
 - **Frame Material:** Laser-cut wood and plexiglass
 - **Joystick:** Used for manual control input
 
-![Electrical Design](circuit.jpg)
+<p align="center">
+  <img src="circuit.jpg" alt="Electrical Design" width="500">
+</p>
 
 ---
 
